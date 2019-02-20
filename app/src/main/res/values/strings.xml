@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coordinator Layout Examples</string>
+    <string name="expandable_view_text">Expandable View!</string>
+</resources>
